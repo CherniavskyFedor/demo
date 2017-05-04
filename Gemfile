@@ -19,3 +19,4 @@ end
 gem 'jquery-rails'
 gem 'therubyracer'
 gem 'execjs'
+gem 'turbolinks'
